@@ -1,0 +1,56 @@
+\contentsline {section}{\numberline {1}Introduction}{3}{section.1}%
+\contentsline {section}{\numberline {2}Tanner Wagner: $A^*$ Algorithm}{5}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Introduction to $A^*$}{5}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Formal Definition}{5}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Objective}{5}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Algorithm Description}{5}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}Algorithm Steps}{6}{subsection.2.5}%
+\contentsline {subsection}{\numberline {2.6}Heuristic Function}{6}{subsection.2.6}%
+\contentsline {subsection}{\numberline {2.7}Algorithm Implementation Details}{7}{subsection.2.7}%
+\contentsline {subsection}{\numberline {2.8}Time and Space Complexity}{7}{subsection.2.8}%
+\contentsline {subsection}{\numberline {2.9}Coding Complexity and Debugging}{8}{subsection.2.9}%
+\contentsline {subsection}{\numberline {2.10}Discussion}{8}{subsection.2.10}%
+\contentsline {section}{\numberline {3}Jennifer Diaz: Depth-First Search (DFS) Algorithm}{9}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Introduction to DFS}{9}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Formal Definition}{9}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Algorithm Description}{9}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Grid Environment and Multiple Items}{10}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}Time and Space Complexity}{10}{subsection.3.5}%
+\contentsline {subsection}{\numberline {3.6}Coding Complexity and Debugging}{10}{subsection.3.6}%
+\contentsline {subsection}{\numberline {3.7}Discussion}{11}{subsection.3.7}%
+\contentsline {section}{\numberline {4}Jennifer Diaz: Breadth-First Search (BFS) Algorithm}{12}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Introduction to BFS}{12}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Formal Definition}{12}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Algorithm Description}{12}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Grid Environment and Multiple Items}{13}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}Time and Space Complexity}{13}{subsection.4.5}%
+\contentsline {subsection}{\numberline {4.6}Coding Complexity and Debugging}{13}{subsection.4.6}%
+\contentsline {subsection}{\numberline {4.7}Discussion}{14}{subsection.4.7}%
+\contentsline {section}{\numberline {5}Jubilation Megill: Floyd–Warshall Algorithm}{15}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Introduction to the Floyd–Warshall Algorithm}{15}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Formal Definition}{15}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Algorithm Description}{16}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}Planning a Route Through All Items}{16}{subsection.5.4}%
+\contentsline {subsection}{\numberline {5.5}Time and Space Complexity}{16}{subsection.5.5}%
+\contentsline {subsection}{\numberline {5.6}Coding Complexity and Debugging}{17}{subsection.5.6}%
+\contentsline {subsection}{\numberline {5.7}Discussion}{17}{subsection.5.7}%
+\contentsline {section}{\numberline {6}Odysseus Valdez: Dijkstra's Algorithm}{18}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Introduction to Dijkstra's Algorithm}{18}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Formal Definition}{18}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3}Algorithm Description}{18}{subsection.6.3}%
+\contentsline {subsection}{\numberline {6.4}Handling Multiple Items}{19}{subsection.6.4}%
+\contentsline {subsection}{\numberline {6.5}Time and Space Complexity}{19}{subsection.6.5}%
+\contentsline {subsection}{\numberline {6.6}Coding Complexity and Debugging}{19}{subsection.6.6}%
+\contentsline {subsection}{\numberline {6.7}Discussion}{20}{subsection.6.7}%
+\contentsline {section}{\numberline {7}Performance Analysis and Discussions}{21}{section.7}%
+\contentsline {subsection}{\numberline {7.1}(a) Comparison of Asymptotic Running Times and Actual Performance}{21}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}(b) Coding Complexity and Debugging Effort}{22}{subsection.7.2}%
+\contentsline {subsection}{\numberline {7.3}(c) Fastest and Slowest Algorithms}{22}{subsection.7.3}%
+\contentsline {subsection}{\numberline {7.4}(d) Memory Usage and Maximum Grid Size}{23}{subsection.7.4}%
+\contentsline {subsection}{\numberline {7.5}Conclusion}{24}{subsection.7.5}%
+\contentsline {section}{\numberline {8}Team Member Acknowledgements}{25}{section.8}%
+\contentsline {subsection}{\numberline {8.1}Jennifer Diaz}{25}{subsection.8.1}%
+\contentsline {subsection}{\numberline {8.2}Jubiliation Megill}{25}{subsection.8.2}%
+\contentsline {subsection}{\numberline {8.3}Odysseus Valdez}{25}{subsection.8.3}%
+\contentsline {subsection}{\numberline {8.4}Tanner Wagner}{25}{subsection.8.4}%
+\contentsline {section}{\numberline {9}Bibliography}{26}{section.9}%
